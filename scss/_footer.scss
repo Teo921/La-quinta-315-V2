@@ -1,0 +1,39 @@
+@use 'variables' as *;
+
+nav {
+  background-color: $azul-oscuro;
+  color: $blanco-hueso;
+}
+
+
+footer {
+  background-color: $azul-oscuro;
+  color: $blanco-hueso;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+  line-height: 1.6;
+  font-size: 0.95rem;
+  animation: aparecer 1.5s ease-in;
+
+  a {
+    color: $dorado;
+    text-decoration: none;
+    margin: 0 10px;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+@keyframes aparecer {
+  from {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
