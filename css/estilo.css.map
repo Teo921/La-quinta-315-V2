@@ -1,1 +1,12 @@
-{"version":3,"sourceRoot":"","sources":["../scss/_footer.scss","../scss/_variables.scss","../scss/_nav.scss"],"names":[],"mappings":"AAEA;EACE;EACA,OCFa;;;ADMf;EACE,kBCNY;EDOZ,OCRa;EDSb;EACA;EACA;EACA;EACA;EACA;;AAEA;EACE,OClBK;EDmBL;EACA;;AAEA;EACE;;;AAKN;EACE;IACE;IACA;;EAEF;IACE;IACA;;;AElCJ;EACE;EACA,ODFa;;;ACMb;EACE;EACA;EACA;EACA;EACA;EACA;;AAGF;EACE,ODhBW;ECiBX;EACA;EACA;EACA;EACA;EACA;;AAEA;EACE,OD1BG;EC2BH","file":"estilo.css"}
+{
+  "version": 3,
+  "sourceRoot": "",
+  "sources": [
+    "../scss/_footer.scss",
+    "../scss/_variables.scss",
+    "../scss/_nav.scss"
+  ],
+  "names": [],
+  "mappings": "AAEA;EACE;EACA,OCFa;;;ADMf;EACE,kBCNY;EDOZ,OCRa;EDSb;EACA;EACA;EACA;EACA;EACA;;AAEA;EACE,OClBK;EDmBL;EACA;;AAEA;EACE;;;AAKN;EACE;IACE;IACA;;EAEF;IACE;IACA;;;AElCJ;EACE;EACA,ODFa;;;ACMb;EACE;EACA;EACA;EACA;EACA;EACA;;AAGF;EACE,ODhBW;ECiBX;EACA;EACA;EACA;EACA;EACA;;AAEA;EACE,OD1BG;EC2BH",
+  "file": "estilo.css"
+}

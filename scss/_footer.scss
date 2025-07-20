@@ -1,10 +1,9 @@
-@use 'variables' as *;
+@use "variables" as *;
 
 nav {
   background-color: $azul-oscuro;
   color: $blanco-hueso;
 }
-
 
 footer {
   background-color: $azul-oscuro;
